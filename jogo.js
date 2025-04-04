@@ -188,7 +188,7 @@ function desenhar() {
             contexto.textAlign = "center";
             contexto.textBaseLine = "middle";
             contexto.fillStyle = "red";
-            contexto.fillText ("Você Morreu!💀", canvas.width / 2, canvas.height / 2);
+            contexto.fillText ("Você Virou Poeira Cósmica!💀", canvas.width / 2, canvas.height / 2);
             return
             
         }else{ 
@@ -199,7 +199,7 @@ function desenhar() {
                 contexto.textAlign = "center";
                 contexto.textBaseLine = "middle";
                 contexto.fillStyle = "green";
-                contexto.fillText("Você Alunissou com Sucesso!🙊", canvas.width / 2, canvas.height / 2);
+                contexto.fillText("Você Alunissou com Sucesso!👌🫢", canvas.width / 2, canvas.height / 2);
            
                 return
              }
